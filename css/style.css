@@ -1,6 +1,7 @@
 /**{padding: 0px;margin: 0px;}*/
 .test{color: blue;padding: 100px;}
 button{border-radius: 5px;padding: 5px;margin: 5px}
+body{background:lightgreen}
 .map{max-height: 600px;max-width: 95%;border: 10px double;}
 .man{width: 3%;}
 .manbt{background: rgb(123,123,123);}
