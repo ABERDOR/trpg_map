@@ -5,5 +5,5 @@ body{background:lightgreen}
 .map{max-height: 600px;max-width: 95%;border: 10px double;}
 .man{width: 3%;}
 .manbt{background: rgb(123,123,123);}
-.append{display: block;}
-.unappend{display: none;}
+.append{display: inline; visibility: visible;}
+.unappend{display: none; visibility: hidden;}
